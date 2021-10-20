@@ -6,6 +6,11 @@
 ```bash
 http://localhost:8080/api/v1/people 
 ```
+### 3.2) Deploy no Heroku:
+```bash
+https://dio-everis-bootcamp.herokuapp.com/api/v1/people ` 
+```
+
 ## 4) Para salvar:
 
 ```{
