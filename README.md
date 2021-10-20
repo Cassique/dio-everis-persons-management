@@ -1,4 +1,4 @@
-# Implementação projeto personsapi, agora a pessoa possui além de telefone, cursos e idiomas. 
+# Implementação projeto personsapi, agora a pessoa possui além de telefones, cursos e idiomas. 
 
 
 
